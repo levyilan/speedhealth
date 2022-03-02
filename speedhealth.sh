@@ -4,7 +4,6 @@ chat_id="" # telegram chat id
 bot_id="" # telegram bot id
 bot_name="myuptimebot" # telegram bot name
 telegram_base_url="https://api.telegram.org/bot${bot_id}/sendMessage"
-speedtest_server="14215" # speed test server id
 speed_trashold=100 # speed trashold in mbits
 test_server_url="" # your server's url
 
